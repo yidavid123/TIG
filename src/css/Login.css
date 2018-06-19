@@ -1,0 +1,51 @@
+.center{
+  background-image:url(../images/friends-cafe.jpeg);
+  opacity: 0.9;
+  position:absolute;
+  height: 88vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+}
+
+.navbar {
+  margin-bottom: 0px;
+}
+.card{
+
+  border-radius: 15px;
+  padding: 0.8rem;
+}
+
+.card > form{
+  display: flex;
+  flex-direction: column;
+}
+
+.card h1{
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.form-item{
+  padding: 5px;
+  margin-bottom: 2rem;
+  height: 40px;
+  width: 30rem;
+  border: 1px solid grey;
+}
+
+.form-submit{
+  height: 35px;
+  color: #fff;
+  background-color: #FF3030;
+  border: none;
+  transition: 0.3s opacity ease;
+  cursor: pointer;
+}
+.form-submit:hover{
+  opacity: 0.6;
+}

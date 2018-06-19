@@ -1,0 +1,50 @@
+#groups-area {
+  background-color: #white;
+}
+
+#groups-area h4 {
+font-size: 25px;
+display: inline;
+}
+
+#recents-area {
+  background-color: #white;
+}
+
+.green {
+  color: #40bf40;
+}
+#addGroup {
+  font-size: 25px;
+  margin: 0;
+  padding: 0;
+  border: none;
+  background: none;
+}
+
+th {
+  font-size: 30px;
+  text-align: center;
+}
+
+td {
+  font-size: 20px;
+}
+.feed-title {
+  text-align: center;
+  color: #FF3030;
+  font-weight: bold;
+}
+
+.jumbo {
+  align: justify;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-align: justify;
+}
+
+.centered {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

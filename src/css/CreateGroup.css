@@ -1,0 +1,38 @@
+.StarRating {
+    font-size: 20px;
+}
+
+.select-price {
+    font-size: 18px;
+    display: inline;
+    float: left;
+}
+
+.name {
+
+}
+
+.card {
+    background-color: white;
+    opacity: 1.0;
+}
+
+.form-body {
+background-image:url(../images/outdoor-seating.jpeg);
+  opacity: 0.9;
+  position:absolute;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+}
+
+.form-item1 {
+  padding: 5px;
+  margin-bottom: 2rem;
+  height: 40px;
+  width: 30rem;
+  border: 1px solid grey;
+}
